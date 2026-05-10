@@ -10,19 +10,23 @@ Built with FastAPI, React, MySQL, FAISS, and Llama 3.
 Upload PDF resumes
 Automatic text extraction using pdfplumber
 Resume content auto-filled into frontend
+
 ✅ AI Interview Question Generation
 Role-based interview generation
 Personalized technical questions based on candidate skills
 Powered by Llama 3 via OpenRouter API
+
 ✅ RAG (Retrieval-Augmented Generation)
 Semantic retrieval using FAISS vector database
 Sentence embeddings using all-MiniLM-L6-v2
 Context-aware question generation
+
 ✅ AI Evaluation System
 Submit candidate answers
 AI-generated interview evaluation
 Strengths and weaknesses analysis
 Technical feedback generation
+
 ✅ Full Stack Architecture
 React frontend
 FastAPI backend
