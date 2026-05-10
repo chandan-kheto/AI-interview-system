@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-multipart
+python-dotenv
+
+sentence-transformers
+faiss-cpu
+numpy
+
+pdfplumber
+langchain
+
+OpenRouter free api key
