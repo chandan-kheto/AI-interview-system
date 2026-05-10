@@ -100,29 +100,23 @@ Candidate answer submission
 AI-based feedback and evaluation
 
 🔧 Backend Setup
-1. Clone Repository
-git clone <your-github-repo-url>
+1. Clone Repository: git clone <your-github-repo-url>
 cd AI-interview-system
-2. Create Virtual Environment
-python -m venv venv
+
+2. Create Virtual Environment: python -m venv venv
 3. Activate Environment
-Windows
-venv\Scripts\activate
-Linux / Mac
-source venv/bin/activate
-4. Install Dependencies
-pip install -r requirements.txt
-5. Run Backend
-uvicorn main:app --reload
+Windows: venv\Scripts\activate
+Linux / Mac: source venv/bin/activate
+
+4. Install Dependencies: pip install -r requirements.txt   
+5. Run Backend:  uvicorn main:app --reload
 
 Backend runs at: http://127.0.0.1:8000
+
 💻 Frontend Setup
-1. Open Frontend
-cd frontend
-2. Install Dependencies
-npm install
-3. Run Frontend
-npm run dev
+1. Open Frontend: cd frontend
+2. Install Dependencies: npm install
+3. Run Frontend: npm run dev
 
 Frontend runs at: http://localhost:5173
 
