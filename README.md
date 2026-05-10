@@ -4,6 +4,7 @@ An AI-powered mock interview platform that generates personalized technical inte
 
 Built with FastAPI, React, MySQL, FAISS, and Llama 3.
 
+```
 🚀 Features
 ✅ Resume Upload & Parsing
 Upload PDF resumes
@@ -27,7 +28,7 @@ React frontend
 FastAPI backend
 MySQL database integration
 REST API architecture
-
+```
 🛠️ Tech Stack
 
 Frontend: React, Tailwind CSS, Axios, Vite
