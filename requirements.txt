@@ -12,4 +12,3 @@ numpy
 pdfplumber
 langchain
 
-OpenRouter free api key
